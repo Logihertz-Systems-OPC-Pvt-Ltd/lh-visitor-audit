@@ -1,0 +1,9 @@
+Package: lh-visitor-audit
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-visitor - Exponential Moving Average Rate of Scanners & Bot Signature
+ Web access telemetry and bot-forensics analyzer parsing HTTP/JSONL access logs to detect vulnerability scanners, directory brute-forcing, credential harvesters, and L7 DDoS anomalies.
